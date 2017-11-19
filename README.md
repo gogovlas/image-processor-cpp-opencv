@@ -1,5 +1,4 @@
-# image-processor-cpp-opencv
-A simple image processor in C++ using openCV.
+# A simple image processor in C++ using openCV
 
 Implements the following operations on a given image:
 - Noise addition (Gaussian)
